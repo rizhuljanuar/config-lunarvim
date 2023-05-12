@@ -310,7 +310,8 @@ lvim.plugins = {
     config = function()
       require("config.colorizer")
     end
-  }
+  },
+  { "pantharshit00/coc-prisma" }
 }
 
 lvim.builtin.which_key.mappings["r"] = {

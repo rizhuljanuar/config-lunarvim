@@ -260,6 +260,10 @@
       {
         "language": "php",
         "path": "./laravel-blade2/src/snippets/snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./react/src/snippets/generated.json"
       }
     ]
   }
